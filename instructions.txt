@@ -1,0 +1,59 @@
+﻿Instructions
+
+1.  Choose any public dataset from https://datasetsearch.research.google.com, 
+    https://www.kaggle.com/datasets, or any public dataset repositories.
+
+    ** We will use datasets related to the customer's behavior
+
+2.  Do predictions, recommendations, or any ML techniques you have acquired 
+	in the MLCC - Using Tensorflow
+
+    ** (Regression, Clustering, Classification) 
+
+3.  Each member has to submit :
+    a. Github repository link of your group, containing
+       i.   Information of the dataset (fork or re-upload if deemed necessary)
+       
+       ii.  Worksheet and/or ML model (notebook, .py file, tf-lite models, 
+            etc)
+
+    b. Google Slides link of your group presentation, up to 10 slides 
+       - containing:
+   	   i.   Metadata of the dataset
+   	   
+       ii.  Framing & hypothesis
+   	   
+       iii. Preparation needed 
+   	   		e.g. (hyperparameters tuning, feature selection, data prep)
+   	   
+       iv.  Techniques
+   	   
+       v.   Results and conclusions
+   			* Assume that stakeholders don’t have any knowledge in 
+              Machine Learning, so please make the result “humane”. 
+   			
+            * Avoid using jargon and technical terms that are unnecessary.
+   			
+            * Example: If you take the COVID-19 diagnosis and/or prediction 
+              topic, you're supposed to present the result of COVID-19 
+              Diagnosis and prediction to the hospital or Ministry of 
+              Health stakeholders. 
+
+    c. A personal/private comment to the teacher/reviewer, of what roles 
+       are you doing in the group project
+
+4.  Please use your own Github account on committing your work. 
+    This will count towards your personal effort score.
+
+
+We will score based on:
+1.  Group effort:
+    a. On-time submission
+    b. The uniqueness of the case and the solutions/model
+    c. Slides clarity
+    d. Results and conclusions - depth and clarity
+
+2.  Personal effort:
+    a. Github activities (commits, issues comment)
+    b. Verification of personal comments compared to group projects 
+       and commits.

@@ -1,0 +1,21 @@
+Our rule:
+    Make it simple, efficient, reachable.
+
+Starting from Sunday, March 22nd, 2020, every member should do any commit:
+It can be comments, proposal, debug, or anything that you consider it
+valuable to improve our project. Do it everyday to show that you
+are active on making this project.
+
+To make it simple, we will perform any prototypes and/or project 
+in jupyter notebook. Only in complicated case(s), we put our code in script.
+Please use heading any formatting style as we use to work with physical 
+notebook.
+
+We also record and write any progress everyday. If possible put the record 
+in the a narative such that it will be easier to understand for other members.
+This summary will be helpful when we are making slides.
+
+Please revise this strategy if you find any better resolution.
+
+ 
+
