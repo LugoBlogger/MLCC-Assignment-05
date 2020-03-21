@@ -1,0 +1,14 @@
+This file is to record our activities related to our participation in this project.
+
+
+
+Log 21st March 2020 - Fatma:
+
+Prior to 21st March, we formed this group that consists of Lugo, Nashrullah and Fatma
+
+Then, Lugo created this repo and put some initial files for every member to read.
+He also invited the other 2 group members to the repo as collaborators.
+
+Fatma accepted the invitation. Record a screen activity on how to clone the repo and add a new file on it: try.py
+she shared the recorded file to our telegram group chat so that other group members can learn the basic git flows.
+
