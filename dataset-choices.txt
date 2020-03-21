@@ -5,3 +5,40 @@ https://www.kaggle.com/mirichoi0218/insurance/kernels
 suggested by Fatma
 we can predict how we much medical coverage we can get according to our gender, BMI, etc.
 we can use linear regression.
+
+
+REAL OR NOT? NLP WITH DISASTER TWEETS
+> suggested by Arul
+#link
+    > https://www.kaggle.com/c/nlp-getting-started/overview
+suggested by Arul
+#objective
+    > predict a tweet present a real disaster tweet or not
+#opinion  
+    > i think this is the best problem as a starting point for NLP domain.
+Because there is many kernel that we can used to tackle the problem
+and most of them show good performance.
+
+
+JUDGE EMOTION ABOUT BRANDS & PRODUCT
+suggested by arul
+#link
+    > https://www.figure-eight.com/data-for-everyone/
+#objective
+    > predict an emotion for some brands & product from a tweet comment
+#opinion 
+    > i'm not really sure about this problem because we donn't have
+some specific guidance to tackle it. But if we commit to allocate our times
+for search a refferences and learn from it. This is will become a wonderful project
+because we all know the information that we provide later is very useful and can
+applied by almost all companies for improve their services.
+
+
+PREDICT FUTURE SALES
+suggested by arul
+#link
+    > https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
+objective
+    > predict total sales every product and store in the next month
+#opinion
+    > i think we need to aggregating  data first because our data seperate into few files
