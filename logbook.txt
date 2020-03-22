@@ -12,3 +12,28 @@ He also invited the other 2 group members to the repo as collaborators.
 Fatma accepted the invitation. Record a screen activity on how to clone the repo and add a new file on it: try.py
 she shared the recorded file to our telegram group chat so that other group members can learn the basic git flows.
 
+
+Log 22 March 2020 - Fatma:
+
+I learnt how people use kernell on Kaggle
+
+Then, I watched a youtube video about neural networks using Tensorflow
+I followed along, using local computer to run the python code with tensorflow, matplotlib library.
+Somehow it took awhile to run, thus I decided to move everything to google colab.
+
+I keep my learning progress on my repo: https://github.com/fatjan/learn-tensorflow.git
+
+It's really nice, I don't need to install any of these data science packages.
+
+I also linked the colab file to that repo.
+
+Now I think I know how to work on our project regardless of which dataset that we choose.
+
+Some insights that I learnt:
+tensorflow is great for using neural networks method of machine learning.
+meaning that we need a lot of input data, but small amount of data can also be used accordingly, like 700-1000 nodes.
+
+data science tools like tensorflow can ease us to create the model to make predictions. The part that we really need to be careful
+is the data that we feed to our model.
+Thus, data preparation is also quite important. 
+
