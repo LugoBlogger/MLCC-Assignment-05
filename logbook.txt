@@ -12,3 +12,9 @@ He also invited the other 2 group members to the repo as collaborators.
 Fatma accepted the invitation. Record a screen activity on how to clone the repo and add a new file on it: try.py
 she shared the recorded file to our telegram group chat so that other group members can learn the basic git flows.
 
+Log 22nd March 2020 - Lugo:
+
+All of member chose the datasets that they wanted to work.
+
+Lugo did a layout correction for easy reading of 
+dataset-choices.txt.
