@@ -37,3 +37,10 @@ data science tools like tensorflow can ease us to create the model to make predi
 is the data that we feed to our model.
 Thus, data preparation is also quite important. 
 
+
+Log 22nd March 2020 - Lugo:
+
+All of member chose the datasets that they wanted to work.
+
+Lugo did a layout correction for easy reading of 
+dataset-choices.txt.
